@@ -1,0 +1,1 @@
+Spring4.0 + SpringMvc + mybatis + mysql + jsp + encache
